@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+import skilstak.colors as c
+
+print(c.multi("Welcome to the Magic Eightball"))
